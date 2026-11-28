@@ -3,7 +3,7 @@
      literals). Wire values (broadcast actions, extras, channel IDs, pref
      names, FGS subtype) intentionally stay in Kotlin/manifest. -->
 <resources>
-    <string name="app_name" translatable="false">L×Box</string>
+    <string name="app_name" translatable="false">M<small><small>R</small></small>VPN</string>
 
     <!-- Quick Connect (tile / shortcuts consent flow) -->
     <string name="qc_first_open">Opening L×Box for VPN permission (one-time)</string>
